@@ -8,11 +8,6 @@ Unlock all chapters, achievements, and secret endings without replaying the game
 
 ---
 
-## ⚠️ Disclaimer
-This repository is for **educational purposes only**. All save files are provided as-is. Use at your own risk.
-
----
-
 ## 📦 What's Included
 
 - **100% Completion Save** – All chapters unlocked, all collectibles found.
